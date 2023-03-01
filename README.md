@@ -1,2 +1,1 @@
-# Proyecto-Davius
-Esto es un repositorio del módulo 2 de Henry
+Este proyecto es una prueba de como clonar un repositorio y clonarlo desde git hub a mi escritorio local
